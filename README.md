@@ -9,4 +9,4 @@ I’m a programmer who uses Python mainly but also knows a bit of html, css, Lau
 *   🌍  I'm based in The Netherlands
 *   🧠  I'm learning AI Learning
 *   🤝  I'm open to collaborating on Web Applications and applications
-*   ⚡  Discord:
+*   ⚡  Discord: DisterVPlays#9601
